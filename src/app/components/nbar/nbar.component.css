@@ -11,5 +11,17 @@ nav{
 }
 
 #menu{
+    margin: 10px;
+    color: white;
     float: right;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#menu:hover{
+    border-radius: 10px;
+    background-color: white;
+    color: black;
 }
