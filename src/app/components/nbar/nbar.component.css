@@ -9,3 +9,7 @@ img{
 nav{
     background-color: darkslateblue;
 }
+
+#menu{
+    float: right;
+}
